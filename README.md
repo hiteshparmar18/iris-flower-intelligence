@@ -10,21 +10,24 @@
 ---
 
 ## 🔗 Live Demo
-📽 **[Demo Video](https://drive.google.com/file/d/1CRmk7tB87H0DWZ6mvfVXr86denfJxELf/view?usp=drive_link)**
+📽 **[Watch Demo Video](https://drive.google.com/file/d/1CRmk7tB87H0DWZ6mvfVXr86denfJxELf/view?usp=drive_link)**  
+🚀 *Live app deployment can be added later*
+
+
 ---
 
 ## 📌 Project Overview
 
-**Iris Flower Intelligence** is a **production-style machine learning dashboard** built to classify Iris flower species based on sepal and petal measurements.
+**Iris Flower Intelligence** is a **production-style machine learning dashboard** designed to classify Iris flower species using sepal and petal measurements.
 
-Unlike basic ML demos, this project focuses on **end-to-end ML product development**, including:
-- model comparison
-- analytics
+Rather than being a basic ML demo, this project focuses on **end-to-end ML product development**, combining:
+- robust machine learning models
+- analytics and evaluation
 - explainability
 - modern UI/UX
-- user-friendly reporting
+- user-friendly interaction and reporting
 
-This project demonstrates how a **classic ML problem** can be transformed into a **real-world analytical application**.
+It demonstrates how a **classic ML dataset** can be transformed into a **real-world analytical application**.
 
 ---
 
@@ -50,14 +53,14 @@ This project demonstrates how a **classic ML problem** can be transformed into a
 ---
 
 ### 🧠 Explainability (Stable & Interpretable)
-- Feature importance using **Logistic Regression coefficients**
-- Explains **which input features influence predictions**
-- No unstable SHAP dependencies (production-safe approach)
+- Feature importance derived from **Logistic Regression coefficients**
+- Highlights which input features influence predictions
+- Avoids unstable SHAP dependencies (production-safe design)
 
 ---
 
 ### 🎨 User Experience
-- Modern **tab-based UI**
+- Modern **tab-based interface**
   - 🏠 Overview  
   - 📊 Analytics  
   - 🧠 Explainability  
@@ -78,6 +81,7 @@ This project demonstrates how a **classic ML problem** can be transformed into a
   - audit trails
 
 ---
+
 ## 🗂 Project Structure
 ```
 iris-flower-intelligence/
@@ -90,11 +94,9 @@ iris-flower-intelligence/
 │ ├── setosa.jpg
 │ ├── versicolor.jpg
 │ └── virginica.jpg
+├── screenshots/ # UI screenshots
 └── saved_models/ # Trained models (gitignored)
 ```
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -154,3 +156,7 @@ Feel free to fork this repo, suggest features, or raise issues.
 ## 📧 Contact
 
 Made by Hitesh Parmar · Reach out on [LinkedIn](https://www.linkedin.com/in/hiteshparmar18/)
+
+
+
+
